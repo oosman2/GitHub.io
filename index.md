@@ -8,3 +8,4 @@ This section will be updated throughout the semester with my data science projec
 
 ## Blog
 - [Why Learning Data Science in Social Contexts Matters](blog1.md)
+[Home](/) | [Projects](/projects/) | [Blog](/blog1/)
