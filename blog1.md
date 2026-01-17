@@ -1,0 +1,9 @@
+# Why Learning Data Science in Social and Interdisciplinary Contexts Matters
+
+Data science is often thought of as a purely technical field focused on numbers, algorithms, and code. However, learning data science in social and interdisciplinary contexts is important because data almost always represents people, behaviors, and real-world systems. When we model social topics, we are not just working with abstract numbers—we are working with human experiences, decisions, and outcomes.
+
+One reason modeling social topics matters is that data can reveal patterns that are not always obvious. For example, data can help us understand inequality, economic trends, public health outcomes, or how policies affect different communities. Models allow us to simplify complex systems so we can explore “what-if” scenarios and make informed decisions. At the same time, social systems are messy and influenced by culture, history, and power, which means models are never perfect representations of reality.
+
+With this power comes responsibility. Using data about people requires careful thought about ethics, privacy, and bias. Data can be incomplete, misleading, or collected in ways that exclude certain groups. If these issues are ignored, models can reinforce stereotypes or produce unfair outcomes. As a data scientist, it is important to question where data comes from, who is represented, and who might be left out. Transparency and accountability are essential when working with social data.
+
+Through this course, I hope to better understand how data science tools can be applied responsibly to social and interdisciplinary problems. I want to learn not only how to build models, but also how to interpret them critically and communicate their limitations. By combining technical skills with social awareness, I believe data science can be used to support more informed, ethical, and human-centered decision-making.
